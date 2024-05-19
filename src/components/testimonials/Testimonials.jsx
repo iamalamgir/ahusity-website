@@ -1,7 +1,7 @@
 import React from 'react';
 import './Testimonials.css';
 import next_icon from '../../assets/next.png';
-import back_icon from '../../assets/back.png';
+import back_icon from '../../assets/prev.png';
 import user_1 from '../../assets/siam.jpg';
 import user_2 from '../../assets/siam.jpg';
 import user_3 from '../../assets/siam.jpg';

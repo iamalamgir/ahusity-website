@@ -53,3 +53,14 @@
     margin-right: 10px;
     border: 4px solid #212EA0;
 }
+
+.user-info{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.user-info h3{
+    color: #212EA0;
+}
